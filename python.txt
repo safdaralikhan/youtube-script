@@ -1,0 +1,3 @@
+p> python -m venv myenv (env bana k liye)
+myenv/Script/activate (env activate krny k liye)
+pip install pandas in my env 
